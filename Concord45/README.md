@@ -15,7 +15,7 @@ Pasos de ensamblado:
     - 3 pcbs (Plate, Bottom plate y circuito principal)
     - Sobre con paquete de diodos, piez de goma, micro pro y 5 juegos de herrajes(cada juego incluye 2 espaciadores, tornillo y tuerca)
 
-2. Soldar todos los switches la fila de la barra espaciadora ( aunque use 6.25U es recomendado soldar   todos los diodos ), es aconsejable soldar los switches por la parte trasera del pcb.
+2. Soldar todos los switches en la fila de la barra espaciadora ( aunque use 6.25U es recomendado soldar   todos los diodos ).
 
 3. ¡¡¡Coloque sus stabs!!!  ¡¡¡Coloque sus stabs!!!  ¡¡¡Coloque sus stabs!!!  ¡¡¡Coloque sus stabs!!!
 
