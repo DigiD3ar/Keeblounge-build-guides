@@ -25,6 +25,8 @@ Pasos de ensamblado:
 
 6. Suelda los conectores del micropro con la parte corta mirando hacia arriba(o el lado donde estaran los switches).
 
+![Micropro](https://drive.google.com/file/d/1GOHPgpX-pNuWXxJzik0_Ezrfi3OyVZpj/view?usp=sharing)
+
 7. A continuacion toma los herrajes, quita el tornillo y la tuerca. Procede a enroscar los separadores, dejando el mas chico en la parte de arriba y el grande por debajo.
 
 8. Coloca  los 2 switches en la zona del micro pro y soldalos primero.
