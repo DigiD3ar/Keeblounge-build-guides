@@ -27,7 +27,9 @@ Pasos de ensamblado:
 
 ![Micropro](https://i.ibb.co/Czm8CHz/c01.jpg)
 
-7. A continuacion toma los herrajes, quita el tornillo y la tuerca. Procede a enroscar los separadores, dejando el mas chico en la parte de arriba y el grande por debajo.
+7. A continuacion toma los herrajes, quita el tornillo y la tuerca. Procede a enroscar los separadores, con el circuito principal en medio, dejando el mas chico en la parte de arriba y el grande por debajo.
+
+![Spacer](https://i.ibb.co/Th0MCSm/Whats-App-Image-2020-09-08-at-19-09-59-1.jpg)
 
 8. Coloca  los 2 switches en la zona del micro pro y soldalos primero.
 
