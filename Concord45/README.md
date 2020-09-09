@@ -1,5 +1,7 @@
 # Guia de ensamblado - Concord45
 
+![Show](https://i.ibb.co/bbZjg7N/Whats-App-Image-2020-08-21-at-13-47-14.jpg)
+
 Herramientas necesarias:
 
 * Cautin
