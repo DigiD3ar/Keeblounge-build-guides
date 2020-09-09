@@ -23,7 +23,7 @@ Pasos de ensamblado:
 
 5. Confiare en que pusiste tus stabilizadores y te dire que continues soldando los demas diodos.
 
-6. Suelda los conectores del micropro con la parte corta mirando hacia arriba(o el lado donde estaran los switches).
+6. Suelda los conectores del micropro con la parte corta mirando hacia arriba(o en otras palabras el lado donde estaran los switches).
 
 ![Micropro](https://i.ibb.co/Czm8CHz/c01.jpg)
 
